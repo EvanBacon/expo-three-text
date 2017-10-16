@@ -1,6 +1,6 @@
-# expo-three-template
-Template for building three.js apps in expo
+# Expo AR Text
+Floating text in Expo with ARKit
 
-expo: https://exp.host/@bacon/expo-three-template
+expo: https://exp.host/@bacon/ar-text
 
-![No one is here](https://media.giphy.com/media/KLTEkOkecYVZS/200w_d.gif?raw=true "Preview Gif 😀 ...I love you")
+![No one is here](/demo?raw=true "Preview Gif 😀 ...I love you")

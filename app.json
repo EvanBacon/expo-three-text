@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "AR Text",
+    "description": "Write words in the sky!",
+    "slug": "ar-text",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "primaryColor": "#ccccf8",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4", "obj", "json"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

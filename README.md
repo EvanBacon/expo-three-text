@@ -7,6 +7,8 @@ Example of using text in Expo
 
 ### Example:
 
+Convert your fonts to three.js text json with this tool: https://gero3.github.io/facetype.js/
+
 ```js
 const textMesh = new TextMesh();
 textMesh.material = new THREE.MeshPhongMaterial({ color: 0x056ecf });
@@ -25,3 +27,4 @@ textMesh.update({
 * [Web Demo](https://threejs.org/examples/webgl_loader_ttf.html)
 * [Expo Demo](https://exp.host/@bacon/3D-text)
 * [Expo Snack](https://snack.expo.io/@bacon/three-simple-text)
+* [Font Converter](https://gero3.github.io/facetype.js/)

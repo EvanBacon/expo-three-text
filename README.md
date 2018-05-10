@@ -1,5 +1,7 @@
 # Expo Three Text
 
+[![reactnative.gallery](https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg)](https://reactnative.gallery)
+
 Example of using text in Expo
 
 * expo: https://exp.host/@bacon/3D-text
